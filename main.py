@@ -68,9 +68,12 @@ def generate_csv(filename, M, N):
 
 if __name__ == '__main__':
 	# Run the main scripts
-	generate_csv('cow.csv', 10, 10)
-	generate_csv('lamb.csv', 10, 10)
-	generate_csv('horse.csv', 10, 10)
+	# generate_csv('possum_model.csv', 5, 10)
+	# generate_csv('cat_model.csv', 5, 10)
+	# generate_csv('sheep_model.csv', 5, 10)
+	# generate_csv('cow_model.csv', 5, 10)
+	# generate_csv('fox_model.csv', 5, 10)
+	generate_csv('new_lamb.csv', 10, 10)
 
 
 
